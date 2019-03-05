@@ -20,3 +20,7 @@ printToDom('thirsty', iAmThirsty(55));
 printToDom('thirsty', iAmThirsty(11));
 printToDom('thirsty', iAmThirsty(67));
 
+console.log(1 === '1');
+// console.log(1 == '1');
+console.log(1 !== '2');
+
